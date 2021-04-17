@@ -1,2 +1,2 @@
 concole.error("hello")
-console.log("hello to you too!")
+console.log(hello to you too!")
