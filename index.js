@@ -1,2 +1,3 @@
 concole.error("hello")
-concole.log('hey there')
+console.log('hey there')
+
